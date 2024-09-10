@@ -1,0 +1,10 @@
+#Sun May 12 12:12:18 IST 2024
+ballSpeedIncreaseSetting=5
+endScore=3
+initialBallXSpeed=1
+initialBallYSpeed=1
+player1DefaultName=Daniel
+player2ComputerControlled=false
+player2DefaultName=Mike
+playerHeight=100
+playerWidth=15
